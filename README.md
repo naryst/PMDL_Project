@@ -85,6 +85,7 @@ Resulting metrics are the following:
 | Smallt| 0.8472826087 | 1.1186913043 | 25.86956522 |
 | Swift | 0.86939547   | 2.4693545866 | 21.79275198 |
 | TS    | 0.8710477798 | 4.0357026534 | 22.67977211 |
+
 As you can see, the model performance is quite good.
 
 
